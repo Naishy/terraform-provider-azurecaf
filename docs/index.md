@@ -75,7 +75,7 @@ Current supported resource types:
 | azurerm_postgresql_virtual_network_rule| psqlvn| 1| 128| false| "^[a-zA-Z0-9-_]{1,128}$"|
 | azurerm_database_migration_project| migr| 2| 57| false| "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,56}$"|
 | azurerm_database_migration_service| dms| 2| 62| false| "^[a-zA-Z0-9][a-zA-Z0-9-_.]{1,61}$"|
-| azurerm_databricks_workspace| dbw| 3| 30| false| "^[a-zA-Z0-9-_]{3,30}$"|
+| azurerm_databricks_workspace| dbw| 3| 64| false| "^[a-zA-Z0-9-_]{3,64}$"|
 | azurerm_kusto_cluster| kc| 4| 22| false| "^[a-z][a-z0-9]{3,21}$"|
 | azurerm_kusto_database| kdb| 1| 260| false| "^[a-zA-Z0-9- .]{1,260}$"|
 | azurerm_kusto_eventhub_data_connection| kehc| 1| 40| false| "^[a-zA-Z0-9- .]{1,40}$"|
